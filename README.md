@@ -22,5 +22,5 @@ Projet de laboratoire : sécuriser et gérer des clients Windows 10 pour une ent
 
 ## Documentation
 
-Voir : `Documentation Windows .pdf`
+Voir :Documentation Windows.ptx
  
